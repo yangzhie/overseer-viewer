@@ -1,0 +1,13 @@
+package com.yangzhie.overseer_viewer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OverseerViewerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OverseerViewerApplication.class, args);
+	}
+
+}
